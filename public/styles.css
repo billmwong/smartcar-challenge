@@ -1,0 +1,25 @@
+.explorer {
+  margin: 0 20px;
+}
+
+.method {
+  color: red;
+}
+
+.header {
+  margin-top: 10px;
+}
+
+.paramHeader {
+  text-transform: capitalize;
+}
+
+.paramInput {
+  width: 250px;
+}
+
+.sendButton {
+  margin-top: 15px;
+  height: 40px;
+  width: 140px;
+}
